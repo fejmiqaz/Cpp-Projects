@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588894326 source:c:\users\user\desktop\projects fq08\snakegame\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+
